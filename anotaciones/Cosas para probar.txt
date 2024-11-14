@@ -1,0 +1,11 @@
+Cosas para probar:
+
+1 - Binarización sobre la escala de grises para blanco/negro: DONE
+2 - Filtro pasa banda con DoG para bordes: DONE 
+3 - Filtro Canny para bordes: DONE
+4 - Filtro Gaussiano para eliminar granulosidad o detalles no deseados y ruido: DONE
+
+5 - Blurred Backgrounds o Masking: Aplicar desenfoque o enmascaramiento del fondo para que el modelo se concentre en el objeto principal (las cartas)????. Esto es segmentación.: DONE
+
+6 - Template Matching o Detector de esquinas de Harris o Descriptores? Espero que no
+ 
