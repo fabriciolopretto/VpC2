@@ -29,3 +29,6 @@ Este proyecto utiliza:
 
 - Notebook con Ingeniería de características
 - Conjuntos de datos original y procesado
+- Notebooks con modelo YOLO para imagenes con y sin preprocesamiento
+- Notebook con modelo YOLO + *Pipeline* Clasificador CNN
+- Artefactos generados por el modelo YOLO y el *Pipeline* Clasificador CNN
